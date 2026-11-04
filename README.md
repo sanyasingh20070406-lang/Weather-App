@@ -68,5 +68,7 @@ Weather-App/
 - [LinkedIn](https://www.linkedin.com/in/sanya-singh-64497b397/)
 
 ---
+<img width="926" height="927" alt="image" src="https://github.com/user-attachments/assets/f0f7b34b-9016-4972-a0c7-27810fd33758" />
+
 
 ⭐ If you find this project useful, consider giving the repository a star!
